@@ -18,17 +18,5 @@
         "type": "image/png"
       }
     ],
-        "shortcuts": [
-        {
-            "name": "End of IBIT",
-            "url": "#section_end_of_ibit"
-        },
         
-        {
-            "name": "Info Window",
-            "url": "#section_iclu_info"
-        }
-
-
-    ]
   }
