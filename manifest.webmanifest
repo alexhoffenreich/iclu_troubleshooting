@@ -1,0 +1,21 @@
+{
+    "name": "iCLU Troubleshooting",
+    "short_name": "iCLU TS",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000029",
+    "description": "Get advice for iCLU faults",
+    "icons": [
+
+      {
+        "src": "images/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
