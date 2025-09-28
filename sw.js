@@ -40,6 +40,7 @@ async function networkAndCache(req) {
   const cache = await caches.open(cacheName);
   try {
     const fresh = await fetch(req);
+    console.log("Fetching");
     await cache.put(req, fresh.clone());
     return fresh;
   } catch (e) {
